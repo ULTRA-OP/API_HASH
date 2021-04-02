@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/ULTRA-OP/API_HASH",
   "success_url": "https://telegram.dog/ULTRAXOT",
-  "website": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
+  "website": "https://github.com/ULTRA-OP/API_HASH",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
