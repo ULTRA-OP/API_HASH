@@ -36,7 +36,7 @@ def parse_to_meaning_ful_text(input_phone_number, in_dict):
     me_t += f"<u>{input_phone_number}</u>"
     me_t += "\n"
     me_t += "\n"
-    me_t += "<i>Aᴘᴘ Cᴏɴғɪɢʀɪᴜᴛɪᴏɴ</i>"
+    me_t += "<i><b>Aᴘᴘ Cᴏɴғɪɢʀɪᴜᴛɪᴏɴ</b></i>"
     me_t += "\n"
     me_t += "<b>Aᴘᴘ Iᴅ</b>: "
     me_t += "<code>{}</code>".format(in_dict["App Configuration"]["app_id"])
