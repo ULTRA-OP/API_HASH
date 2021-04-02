@@ -1,17 +1,13 @@
 {
-  "name": "MyTelegramOrgRoBot",
-  "description": "get your APP ID and API HASH inside Telegram",
-  "keywords": [
-    "telegram",
-    "best",
-    "app",
-    "scrapper",
-    "3"
-  ],
-  "repository": "https://github.com/ULTRA-OP/API_HASH",
-  "success_url": "https://telegram.dog/ULTRAXOT",
-  "website": "https://github.com/ULTRA-OP/API_HASH",
-  "env": {
+    "name": "Ultroid UserBot",
+    "description": "Pluggable telegram userbot, made in python using Telethon.",
+    "logo": "https://telegra.ph/file/1518e15421d21c5afd9af.jpg",
+    "keywords": ["Telethon", "telegram", "userbot", "python"],
+    "repository": "https://github.com/ULTRA-OP/API_HASH",
+    "website": "https://ultroid.netlify.app/",
+    "success_url": "https://t.me/ULTRAXOT",
+    "stack": "container",
+    "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
